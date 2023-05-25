@@ -1,4 +1,4 @@
-# OLUWAFISAYO ADABS 30141541, KAMEEL KASUMU 30141921
+# OLUWAFISAYO ADABS, KAMEEL KASUMU
 import numpy as np  # importing numpy module
 import matplotlib.pyplot as plt  # importing matplotlib module
 import math as m  # importing math module
@@ -6,7 +6,7 @@ import math as m  # importing math module
 
 class printCountryInfo:
     """
-    A class used to create a School object.
+    A class used to create a Country object.
 
         Attributes:
             country_name (str): String that represents the country's name (input given)
